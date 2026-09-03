@@ -12,4 +12,4 @@ Disallow: /
 User-agent: DotBot
 Disallow: /
 
-Sitemap: https://mortgage-broker-sydney-h-150.surge.sh/sitemap.xml
+Sitemap: https://aumedia.neocities.org/mortgage-broker-sydney-h-150/sitemap.xml

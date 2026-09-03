@@ -6,12 +6,13 @@
   "node_role": "buffer",
   "money_target": "homeloanbrokersydney.com.au",
   "primary_kw": "mortgage broker sydney",
-  "intended_url": "https://mortgage-broker-sydney-h-150.surge.sh/",
+  "intended_url": "https://aumedia.neocities.org/mortgage-broker-sydney-h-150/",
   "links": [
     {
       "target_url": "https://mortgage-broker-sydney-guide.pages.dev/",
       "anchor": "mortgage broker sydney",
       "rel": "follow"
     }
-  ]
+  ],
+  "structure": "wheel"
 }
